@@ -1,5 +1,5 @@
 [flexpart_data]
-git-tree-sha1 = "ca142798e59fe5b6cb30569e73a0b6751d1d0c69"
+git-tree-sha1 = "d1de086cf33b0c8ab2a7158c96251c71d4cccf27"
 
     [[flexpart_data.download]]
     url = "https://github.com/PaulPerezRMA/FlexpartData/raw/main/flexpart_data.tar.gz"
