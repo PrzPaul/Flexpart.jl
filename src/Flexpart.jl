@@ -57,7 +57,7 @@ const ROOT_ARTIFACT_FLEXPART_DATA = artifact"flexpart_data"
 # const INPUT_DIR_DEFAULT = "./input"
 # const AVAILABLE_PATH_DEFAULT = "./AVAILABLE"
 const PATHNAMES_FILENAME = "pathnames"
-const DEFAULT_FP_DIR = joinpath(ROOT_ARTIFACT_FLEXPART_DATA, "default_fpdir")
+const DEFAULT_FP_DIR = joinpath(ROOT_ARTIFACT_FLEXPART_DATA, "flexpart_data", "default_fpdir")
 const DEFAULT_PATH_PATHNAMES = joinpath(DEFAULT_FP_DIR, PATHNAMES_FILENAME)
 const PATHNAMES_KEYS = (:options, :output, :input, :available)
 
